@@ -1,0 +1,3 @@
+rootProject.name = 'PortalNoticias'
+
+include ':app'
